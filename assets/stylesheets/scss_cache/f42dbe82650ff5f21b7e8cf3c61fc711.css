@@ -1,0 +1,4 @@
+/* compiled by scssphp v0.0.11 on Fri, 07 Jun 2019 18:22:20 +0200 (0.002s) */
+
+.form .row:not(:last-child) {
+  padding-bottom: 0; }

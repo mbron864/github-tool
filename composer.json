@@ -1,0 +1,9 @@
+{
+	"require": {
+		"league/plates": "3.*",
+		"leafo/scssphp": "0.0.12",
+		"semantic/ui": "^2.4",
+		"vlucas/phpdotenv": "^3.3",
+		"components/jquery": "^3.3"
+	}
+}
